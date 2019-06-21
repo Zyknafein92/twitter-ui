@@ -1,7 +1,6 @@
 {
   "name": "twitter-ui",
   "version": "0.1.0",
-  "description": "A simple Twitter UI",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
@@ -14,16 +13,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Zyknafein92/twitter-ui.git"
-  },
-  "author": "Zyknafein92",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Zyknafein92/twitter-ui/issues"
-  },
-  "homepage": "https://github.com/Zyknafein92/twitter-ui#readme",
   "eslintConfig": {
     "extends": "react-app"
   },
